@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.portafolio.Capa.CapaApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.94 s - in com.portafolio.Capa.CapaApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 37.406 s - in com.portafolio.Capa.CapaApplicationTests

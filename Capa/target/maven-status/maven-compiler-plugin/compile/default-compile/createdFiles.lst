@@ -11,7 +11,6 @@ com\portafolio\Capa\Security\Service\RolService.class
 com\portafolio\Capa\Security\Enums\RolNombre.class
 com\portafolio\Capa\Service\SExperiencia.class
 com\portafolio\Capa\Security\Dto\NuevoUsuario.class
-com\portafolio\Capa\Interface\IPersonaService.class
 com\portafolio\Capa\CapaApplication.class
 com\portafolio\Capa\Security\Entity\UsuarioPrincipal.class
 com\portafolio\Capa\Security\Service\UserDetailsImpl.class
